@@ -1,0 +1,80 @@
+* {outline:1px solid rgba(255,0,0,0);}
+.menu{
+	list-style: none;
+	padding: 30px;
+	text-align: center;
+}
+.menu li{
+	display: inline-block;
+
+}
+.menu a{
+	text-decoration: none;
+	margin-right: 30px;
+	color: #111;
+	
+}
+.menu ul{
+	text-align: center;
+}
+.presentacion{
+	background: url("../images/background.jpg") no-repeat;
+	padding: 15%;
+	position: relative;
+}
+h1{
+	text-align: center;
+	color: white;
+	
+}
+h3{
+	text-align: center;
+	color: white;
+}
+h2{
+	color:#8904b1;
+	text-align: center;
+}
+.biografia{
+	background: url("../images/tile1.png");
+	padding: 5%;
+
+}
+.biografia img{
+	border: 2px solid black;
+}
+p{
+	text-align: center;
+	color: #8904B1;
+}
+.hobbies{
+	margin-top: 30px;
+}
+.galeria{
+	padding: 30px;
+	width: 978px;
+	height: 290px;
+	overflow: auto;
+	margin: 0 auto;
+	
+
+}
+.hobbies img{
+	border-radius: 100%;
+	border: 2px solid #8904B1;
+	padding: 3px;
+	margin-left: 35px;
+
+
+}
+.redes{
+	background: url("../images/tile2.png"); 
+	padding: 5%;
+	margin-top: 30px;
+}
+.redes img{
+	margin-left: 150px;
+	margin-top: 30px;
+}
+
+/* Inserta tu CSS aqui *
